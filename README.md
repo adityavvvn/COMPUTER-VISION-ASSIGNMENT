@@ -51,5 +51,3 @@ We used **three key metrics** to assess segmentation accuracy:
 ✔ **Dice Coefficient** – Similarity measure between the predicted and actual segmentation.  
 ✔ **Pixel Accuracy** – Percentage of correctly classified pixels in the image.  
 
-**Results:**  
-
