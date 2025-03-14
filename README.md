@@ -37,11 +37,11 @@ We applied five different **segmentation techniques** to detect plastic waste:
 
 | **Method** | **Accuracy** | **Strengths** | **Weaknesses** |
 |------------|------------|----------------------------|----------------------|
-| **K-Means Clustering** | 89.3% | Fast, easy implementation | Sensitive to initialization |
-| **Mean-Shift Segmentation** | 92.1% | Robust to noise, adaptive | Slow for large images |
-| **Felzenszwalb Segmentation** | 95.6% | Preserves structure, efficient | Sensitive to parameters |
-| **Watershed Segmentation** | 93.4% | Works well for high-contrast images | Requires preprocessing |
-| **SLIC Superpixels** | 90.2% | Edge-preserving, computationally efficient | Needs parameter tuning |
+| **K-Means Clustering** | 72.3% | Fast, easy implementation | Sensitive to initialization |
+| **Mean-Shift Segmentation** | 75.9% | Robust to noise, adaptive | Slow for large images |
+| **Felzenszwalb Segmentation** | 78.2% | Preserves structure, efficient | Sensitive to parameters |
+| **Watershed Segmentation** | 74.1% | Works well for high-contrast images | Requires preprocessing |
+| **SLIC Superpixels** | 69.5% | Edge-preserving, computationally efficient | Needs parameter tuning |
 
 ---
 
