@@ -3,7 +3,7 @@
 # 🏭 Garbage Detection in Noisy Environments: A Robust Approach Using Noise Reduction and Segmentation
 **A Robust Approach Using Noise Reduction & Segmentation**  
 
-![Project Banner](https://github.com/adityavvvn/COMPUTER-VISION-ASSIGNMENT/blob/main/banner.jpg)  
+![Project Banner](dataset-cover.jpg)  
 
 ## 🚀 Project Overview  
 This project focuses on **detecting plastic waste in noisy underwater environments** using advanced **noise reduction** techniques and multiple **segmentation methods**. The goal is to **enhance image quality** and accurately identify plastic debris for **environmental conservation** and **marine ecosystem preservation**.  
